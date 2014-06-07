@@ -1,0 +1,19 @@
+/*
+Theme Name: Disruptsy 2014
+Theme URI: https://github.com/disruptsy/2014-theme.git
+Author: Disruptsy
+Author URI: http://disruptsy.com
+Description: Wordpress theme for Disruptsy site, based on Twenty Fourteen
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Template: twentyfourteen
+Text Domain: 2014-theme
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import url("../twentyfourteen/style.css");
+
